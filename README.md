@@ -1,4 +1,4 @@
-# multi-branch-web-app
+# Multi-branch-web-app
 Use this respo to understand better about git stuff and web app concurrently
 
 ## Initial Commit(Main Branch)
